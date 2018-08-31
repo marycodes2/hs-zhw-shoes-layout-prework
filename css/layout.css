@@ -47,6 +47,7 @@
 
 /*span whole space*/
 .col-3 {
+  width: 96%;
 }
 
 /*attribute selector: anything that has a class with "col- 
