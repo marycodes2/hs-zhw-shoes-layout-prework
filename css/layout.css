@@ -35,14 +35,14 @@
 .col-1 {
 	float: left;
 	/*100% - 2% margins btw columns 1&2 and 2&3 = 96/3 = 32 */
-	width: 32%;
+	width: 30%;
 }
 
 /*span 2/3 of space*/
 .col-2 {
 	float: left;
 	/*100% - 2% margin - 32% last column = 66 */
-	width: 66%;
+	width: 62%;
 }
 
 /*span whole space*/
